@@ -42,3 +42,7 @@ h3, h4 {
   /*左線*/
 }
 
+u {
+  text-decoration: underline;
+  /* 必要なら色や太さなども */
+}
